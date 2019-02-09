@@ -2,8 +2,8 @@
 
 * [Getting started](README.md)
 * [Technology](technology.md)
-* [Frequently asked questions](frequently-asked-questions.md)
 * [Roadmap](roadmap.md)
+* [Frequently asked questions](frequently-asked-questions.md)
 
 ## API
 
