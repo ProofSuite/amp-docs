@@ -26,10 +26,7 @@ These docs are still being worked on. Some parts may be unfinished
 * Discord
 * Email
 
-## How it works 
+## How it works
 
-## How to use it 
-
-
-
+## How to use it
 

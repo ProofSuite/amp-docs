@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-See the Websocket API section on how to create and cancel orders. 
+See the Websocket API section on how to create and cancel orders. We are currently working adding HTTP methods for creating and canceling orders.
 {% endhint %}
 
 ## TOKENS

@@ -3,6 +3,7 @@
 * [Getting started](README.md)
 * [Technology](technology.md)
 * [Frequently asked questions](frequently-asked-questions.md)
+* [Roadmap](roadmap.md)
 
 ## API
 
@@ -15,4 +16,5 @@
 * [Frontend](setup/frontend.md)
 * [Matching Engine](setup/matching-engine.md)
 * [Contracts](setup/contracts.md)
+* [Contributions and License](setup/contributions-and-license.md)
 
